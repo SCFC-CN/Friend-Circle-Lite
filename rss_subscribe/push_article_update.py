@@ -21,7 +21,7 @@ def extract_emails_from_issues(api_url):
     dict: 包含所有提取的邮箱地址的字典。
     {
         "emails": [
-            "3162475700@qq.com"
+            "i@scfc.top"
         ]
     }
     """
