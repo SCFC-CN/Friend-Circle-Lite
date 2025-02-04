@@ -9,7 +9,7 @@
 spider_settings:
   enable: true
   json_url: "https://blog.scfc.top/friend.json"
-  article_count: 10
+  article_count: 6
   merge_result:
     enable: false
     merge_json_url: "https://fc.liushen.fun"
